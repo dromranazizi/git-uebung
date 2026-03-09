@@ -1,1 +1,1 @@
-Gemeinsame Zeile von repo1
+Konflikt geloest: repo1 + repo2
